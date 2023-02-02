@@ -1,0 +1,3 @@
+git checkout main
+git pull origin main
+emacs up_to_date
